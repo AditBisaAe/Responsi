@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/82/30/laundry-service-background-with-professional-items-vector-32748230.jpg);
+}
+html{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(59, 105, 255);
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+.content{
+    margin-top: 150px;
+    margin-left: 450px;
+    border-style: solid;
+    text-align: center;
+    width: 30%;
+    height: auto;
+}
